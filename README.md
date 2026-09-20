@@ -224,4 +224,4 @@ Rufus is available as a complete free version with all features and updates incl
 Download Rufus today and simplify your bootable USB creation process! Enjoy the convenience of having Rufus at your fingertips.
 
 ---
-**Last updated:** 2026-09-20 18:06:36 UTC
+**Last updated:** 2026-09-20 21:17:59 UTC
